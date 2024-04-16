@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Using Artificial Neural Networks for Studying Human Language Learning and Processing</title>
+    <link>https://ANN-HumLang.github.io/</link>
+    <description>Recent content on Using Artificial Neural Networks for Studying Human Language Learning and Processing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <managingEditor>me@example.com (Tamar Johnson &amp; Marianne de Heer Kloots)</managingEditor>
+    <webMaster>me@example.com (Tamar Johnson &amp; Marianne de Heer Kloots)</webMaster>
+    <copyright>Tamar Johnson &amp; Marianne de Heer Kloots</copyright>
+    <atom:link href="https://ANN-HumLang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reading group archive</title>
+      <link>https://ANN-HumLang.github.io/reading-group-archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>me@example.com (Tamar Johnson &amp; Marianne de Heer Kloots)</author>
+      <guid>https://ANN-HumLang.github.io/reading-group-archive/</guid>
+      <description>In the 2023 Spring Semester we organized a reading group at the ILLC, bringing together formal semanticists and computational linguists working at our institute to discuss the use of Artificial Neural Networks in modelling human language learning and processing. Below is an archive of the papers we read.&#xA;Feel free to keep suggesting papers in our sheet!&#xA;April 3rd, 2023 Li, J., Yu, L., &amp;amp; Ettinger, A. (2022). Counterfactual reasoning: Do language models need world knowledge for causal inference?</description>
+      <content:encoded><![CDATA[<p>In the 2023 Spring Semester we organized a reading group at the ILLC, bringing together formal semanticists and computational linguists working at our institute to discuss the use of Artificial Neural Networks in modelling human language learning and processing. Below is an archive of the papers we read.</p>
+<p>Feel free to keep suggesting papers in our <a href="https://docs.google.com/spreadsheets/d/1h_HJATlutSkfDKYTtoR3zvnCFhUsmhfi1VF-QfodK7w/edit?usp=sharing">sheet</a>!</p>
+<h4 id="april-3rd-2023">April 3rd, 2023</h4>
+<p>Li, J., Yu, L., &amp; Ettinger, A. (2022). Counterfactual reasoning: Do language models need world knowledge for causal inference? In <em>NeurIPS 2022 Workshop on Neuro Causal and Symbolic AI (nCSI)</em>. <a href="https://arxiv.org/pdf/2212.03278.pdf">https://arxiv.org/pdf/2212.03278.pdf</a></p>
+<p><em>presented by:</em> Tom<br>
+<em>time:</em> 11-12am CET<br>
+<em>location:</em> LAB42, L6.51</p>
+<h4 id="march-27th-2023">March 27th, 2023</h4>
+<p>Piantadosi, S. (2023). Modern language models refute Chomsky&rsquo;s approach to language. <em>LingBuzz</em>. <a href="https://lingbuzz.net/lingbuzz/007180">https://lingbuzz.net/lingbuzz/007180</a></p>
+<p><em>time:</em> 4-5pm CET<br>
+<em>location:</em> LAB42, <strong>L6.27</strong></p>
+<h4 id="march-20th-2023">March 20th, 2023</h4>
+<p>Manning, C. D., Clark, K., Hewitt, J., Khandelwal, U., &amp; Levy, O. (2020). Emergent linguistic structure in artificial neural networks trained by self-supervision. <em>Proceedings of the National Academy of Sciences, 117</em>(48), 30046-30054. <a href="https://doi.org/10.1073/pnas.1907367117">https://doi.org/10.1073/pnas.1907367117</a></p>
+<p><em>presented by:</em> Samuel<br>
+<em>time:</em> 2-3pm CET<br>
+<em>location:</em> LAB42, L6.51</p>
+<h4 id="march-13th-2023">March 13th, 2023</h4>
+<p>Merrill, W., Warstadt, A., &amp; Linzen, T. (2022). Entailment Semantics Can Be Extracted from an Ideal Language Model. In <em>Proceedings of the 26th Conference on Computational Natural Language Learning (CoNLL)</em>, pages 176–193, Abu Dhabi, United Arab Emirates (Hybrid). Association for Computational Linguistics. <a href="https://aclanthology.org/2022.conll-1.13/">https://aclanthology.org/2022.conll-1.13/</a></p>
+<p><em>presented by:</em> Taka<br>
+<em>time:</em> 4-5pm CET<br>
+<em>location:</em> LAB42, L6.51</p>
+<h4 id="march-6th-2023">March 6th, 2023</h4>
+<p>McClelland, J. L., Hill, F., Rudolph, M., Baldridge, J., &amp; Schütze, H. (2020). Placing language in an integrated understanding system: Next steps toward human-level performance in neural language models. <em>Proceedings of the National Academy of Sciences, 117</em>(42), 25966-25974. <a href="https://doi.org/10.1073/pnas.1910416117">https://doi.org/10.1073/pnas.1910416117</a></p>
+<p><em>presented by:</em> Marianne<br>
+<em>time:</em> 4-5pm CET<br>
+<em>location:</em> LAB42, L6.51</p>
+<h4 id="february-27th-2023">February 27th, 2023</h4>
+<p>Jain, S., Vo, V. A., Wehbe, L., &amp; Huth, A. G. (2023). Computational language modeling and the promise of in silico experimentation. <em>Neurobiology of Language</em>, 1-65. <a href="https://doi.org/10.1162/nol_a_00101">https://doi.org/10.1162/nol_a_00101</a></p>
+<p><em>presented by:</em> Tamar<br>
+<em>time:</em> 4-5pm CET<br>
+<em>location:</em> LAB42, L6.51</p>
+<h4 id="february-21st-2023">February 21st, 2023</h4>
+<p>Andrew K Lampinen, Ishita Dasgupta, Stephanie CY Chan, Kory Matthewson, Michael Henry Tessler, Antonia Creswell, James L McClelland, Jane X Wang, and Felix Hill. Can language models learn from explanations in context? arXiv preprint arXiv:2204.02329, 2022. <a href="https://arxiv.org/abs/2204.02329">https://arxiv.org/abs/2204.02329</a></p>
+<p><em>presented by:</em> Taka<br>
+<em>time:</em> 4-5pm CET<br>
+<em>location:</em> LAB42, <strong>L3.06</strong></p>
+<h4 id="february-13th-2023">February 13th, 2023</h4>
+<p>Lakretz, Y., Desbordes, T., Hupkes, D., &amp; Dehaene, S. (2022, October). Can Transformers Process Recursive Nested Constructions, Like Humans?. In <em>Proceedings of the 29th International Conference on Computational Linguistics</em> (pp. 3226-3232). <a href="https://aclanthology.org/2022.coling-1.285/">https://aclanthology.org/2022.coling-1.285/</a></p>
+<p><em>presented by:</em> Tom<br>
+<em>time:</em> 4-5pm CET<br>
+<em>location:</em> LAB42, L6.51</p>
+<h4 id="february-6th-2023">February 6th, 2023</h4>
+<p>Mahowald, K., Ivanova, A. A., Blank, I. A., Kanwisher, N., Tenenbaum, J. B., &amp; Fedorenko, E. (2023). Dissociating language and thought in large language models: a cognitive perspective. arXiv preprint arXiv:2301.06627. <a href="https://arxiv.org/abs/2301.06627">https://arxiv.org/abs/2301.06627</a></p>
+<p><em>presented by:</em> Marianne<br>
+<em>time:</em> 4-5pm CET<br>
+<em>location:</em> LAB42, L6.51</p>
+<h4 id="january-30th-2023">January 30th, 2023</h4>
+<p>Warstadt, A., &amp; Bowman, S. R. (2022). What artificial neural networks can tell us about human language acquisition. In <em>Algebraic Structures in Natural Language</em> (pp. 17-60). CRC Press. <a href="https://arxiv.org/abs/2208.07998">https://arxiv.org/abs/2208.07998</a></p>
+<p><em>presented by:</em> Tamar<br>
+<em>time:</em> 4-5pm CET<br>
+<em>location:</em> LAB42, L6.51</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Workshop</title>
+      <link>https://ANN-HumLang.github.io/workshop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>me@example.com (Tamar Johnson &amp; Marianne de Heer Kloots)</author>
+      <guid>https://ANN-HumLang.github.io/workshop/</guid>
+      <description>Workshop (10-12 June, 2024) Artificial Neural Networks (ANNs) have proven to be powerful learning devices for language-related tasks, as demonstrated by recent progress in artificial intelligence driven by large, Transformer-based language models. But how can ANNs inform us about human language learning and processing? Our three-day workshop brings together researchers working on cognitively motivated and linguistic questions in studying the language processing mechanisms and learning trajectories of ANNs.&#xA;For the first two days of the programme, we hope to stimulate discussion on the workshop theme through contributed presentations from our workshop participants and keynote speakers.</description>
+      <content:encoded><![CDATA[<h3 id="workshop-10-12-june-2024">Workshop (10-12 June, 2024)</h3>
+<p>Artificial Neural Networks (ANNs) have proven to be powerful learning devices for language-related tasks, as demonstrated by recent progress in artificial intelligence driven by large, Transformer-based language models. But how can ANNs inform us about <em>human</em> language learning and processing? Our three-day workshop brings together researchers working on cognitively motivated and linguistic questions in studying the language processing mechanisms and learning trajectories of ANNs.</p>
+<p>For the first two days of the programme, we hope to stimulate discussion on the workshop theme through contributed presentations from our workshop participants and keynote speakers. The final day will be focussed on active interactions and collaboration between participants, through small-scale tutorials and joint group work on a collaborative task.</p>
+<p>We will share more information on this page soon, but please feel free to contact us if you are interested in attending!</p>
+<!-- raw HTML omitted -->
+<h4 id="organizers">Organizers</h4>
+<p>Tamar Johnson (<a href="mailto:t.johnson@uva.nl">t.johnson@uva.nl</a>)<br>
+Marianne de Heer Kloots (<a href="mailto:m.l.s.deheerkloots@uva.nl">m.l.s.deheerkloots@uva.nl</a>)</p>
+<h4 id="venue">Venue</h4>
+<p>Institute for Logic, Language and Computation<br>
+Amsterdam Science Park campus, University of Amsterdam</p>
+<h4 id="confirmed-keynote-speakers">Confirmed keynote speakers:</h4>
+<p><a href="https://www.cs.rug.nl/~bisazza/">Arianna Bisazza</a> (University of Groningen)<br>
+<details>
+    <summary><em>Can modern Language Models be truly polyglot? Language learnability and inequalities in NLP</em></summary>
+    <p>Despite their impressive advances, modern Language Models (LMs) are still far from reaching language equality, i.e. comparable performance in all languages.
+The uneven amount of data available in different languages is often recognized as the main culprit. However, another obstacle to language equality is posed by the observation that some languages are intrinsically more difficult to model than others by modern LM architectures, even when training data size is controlled for.</p>
+<p>In this talk, I will present evidence supporting this observation, coming from different tasks and different evaluation methodologies (e.g. using natural versus synthetic languages).
+I will then argue for the usefulness of artificial languages to unravel the complex interplay between language properties and learnability by neural networks.
+Finally, I will provide an outlook of my upcoming project aimed at improving language modeling for (low-resource) morphologically rich languages, taking inspiration from child language acquisition.</p>
+
+</details></p>
+<p><a href="https://evaportelance.github.io/">Eva Portelance</a> (Mila; HEC Montréal)<br>
+<details>
+    <summary><em>What neural networks can teach us about how we learn language</em></summary>
+    <p>How can modern neural networks like large language models be useful to the field of language acquisition, and more broadly cognitive science, if they are not a priori designed to be cognitive models? As developments towards natural language understanding and generation have improved leaps and bounds, with models like GPT-4, the question of how they can inform our understanding of human language acquisition has re-emerged. This talk address how AI models as objects of study can indeed be useful tools for understanding how humans learn language. It will present three approaches for studying human learning behaviour using different types of neural networks and experimental designs, each illustrated through a specific case study.</p>
+<p>Understanding how humans learn is an important problem for cognitive science and a window into how our minds work. Additionally, human learning is in many ways the most efficient and effective algorithm there is for learning language; understanding how humans learn can help us design better AI models in the future.</p>
+
+</details></p>
+<p><a href="https://wilcoxeg.github.io/">Ethan Wilcox</a> (ETH Zürich)<br>
+<details>
+    <summary><em>Title TBA</em></summary>
+    Abstract TBA
+</details></p>
+<h4 id="programme">Programme</h4>
+<p>We hope to publish our complete workshop programme within the next few weeks, check back soon!</p>
+<h5 id="monday-june-10th">Monday June 10th</h5>
+
+
+<table>
+<tbody>
+  <tr>
+    <td>13.00 - 18.00</td>
+    <td>TBA</td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+<h5 id="tuesday-june-11th">Tuesday June 11th</h5>
+
+
+<table>
+<tbody>
+  <tr>
+    <td>09.30 - 18.00</td>
+    <td>TBA</td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+<h5 id="wednesday-june-12th">Wednesday June 12th</h5>
+
+
+<table>
+<tbody>
+  <tr>
+    <td>09.30 - 18.00</td>
+    <td>TBA</td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+<h4 id="acknowledgements">Acknowledgements</h4>
+<p>This workshop is supported by and organized as part of the <em>Language in Interaction</em> consortium (NWO Gravitation Grant 024.001.006).</p>
+
+
+<a href="https://www.dcc.ru.nl/languageininteraction/"><img src="/images/LiI_Logo_450px.jpg" width=300></img></a>
+
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
