@@ -38,8 +38,8 @@ Understanding how humans learn is an important problem for cognitive science and
 {{< /details >}}
 
 [Ethan Wilcox](https://wilcoxeg.github.io/) (ETH Zürich)  
-{{< details "_Title TBA_" >}}
-Abstract TBA
+{{< details "_Using artificial neural networks to study human language processing: Two case studies and a warning_" >}}  
+Neural network language models are pure prediction engines, they have no communicative intent, and they do not learn language through social interactions. Despite this, I argue that they can be used to study human language processing, in particular, to empirically evaluate theories that are based on probability distributions over words. In the first half of this talk, I discuss two case studies in this vein, focusing on psycholinguistic theories of incremental processing, as well as regressions, or backward saccades between words. In the second half of the talk, I take a step back and discuss the impact of scaling for the usefulness of ANNs in psycholinguistics research. Scaling is the trend toward producing ever-larger models, both in terms of parameter counts and in terms of the amount of data they are trained on. While largely beneficial to performance on downstream benchmarking tasks, scaling has several downsides for computational psycholinguistics. I will discuss the scientific and practical challenges presented by scaling for neural network modeling, as well as the benefits that would result from human-scale language modeling research.
 {{< /details >}}
 
 #### Programme
