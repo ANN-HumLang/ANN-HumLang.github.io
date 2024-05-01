@@ -7,8 +7,7 @@ Artificial Neural Networks (ANNs) have proven to be powerful learning devices fo
 
 For the first two days of the programme, we hope to stimulate discussion on the workshop theme through contributed presentations from our workshop participants and keynote speakers. The final day will be focussed on active interactions and collaboration between participants, through small-scale tutorials and joint group work on a collaborative task.
 
-We will share more information on this page soon, but please feel free to contact us if you are interested in attending!
-<!-- We are currently accepting participants to our workshop on an invitation basis, focussing on early-career researchers working on topics relevant to the workshop theme. However, please feel free to contact us if you are interested in attending! (Especially if you are able to cover your own travel and accommodation fees) -->
+We will share more information on this page soon. Please register [here](https://forms.gle/6yn1ZRv7jf6pAVyE6) if you are interested in attending! Note that we have limited capacity for our small-scale workshop — priority will be given to junior researchers (PhD students and postdocs) and researchers who take part in the poster session and the collaborative task if we need to limit the number of attendees. We will inform you if we are nearing capacity!
 
 #### Organizers
 Tamar Johnson (t.johnson@uva.nl)  
@@ -16,7 +15,7 @@ Marianne de Heer Kloots (m.l.s.deheerkloots@uva.nl)
 
 #### Venue
 Institute for Logic, Language and Computation  
-Amsterdam Science Park campus, University of Amsterdam  
+[SustainaLab](https://www.sustainalab.nl/event-space/) event space, Amsterdam Science Park campus, University of Amsterdam  
 
 #### Confirmed keynote speakers:
 
