@@ -5,9 +5,10 @@ title: "Workshop"
 ### Workshop (10-12 June, 2024)
 Artificial Neural Networks (ANNs) have proven to be powerful learning devices for language-related tasks, as demonstrated by recent progress in artificial intelligence driven by large, Transformer-based language models. But how can ANNs inform us about _human_ language learning and processing? Our three-day workshop brings together researchers working on cognitively motivated and linguistic questions in studying the language processing mechanisms and learning trajectories of ANNs. 
 
-For the first two days of the programme, we hope to stimulate discussion on the workshop theme through contributed presentations from our workshop participants and keynote speakers. The final day will be focussed on active interactions and collaboration between participants, through small-scale tutorials and joint group work on a collaborative task.
+For the first two days of the programme, we hope to stimulate discussion on the workshop theme through contributed presentations from our workshop participants and keynote speakers. The final day will be focussed on active interactions and collaboration between participants, through small-scale tutorials and joint group work on a collaborative task. We will share more information on this page soon.
 
-We will share more information on this page soon. Please register [here](https://forms.gle/6yn1ZRv7jf6pAVyE6) if you are interested in attending! Note that we have limited capacity for our small-scale workshop — priority will be given to junior researchers (PhD students and postdocs) and researchers who take part in the poster session and the collaborative task if we need to limit the number of attendees. We will inform you if we are nearing capacity!
+#### Registration
+Registration is now open! Please {{< rawhtml >}}<a href="https://forms.gle/6yn1ZRv7jf6pAVyE6"><button><b>register here</b></button></a>{{< /rawhtml >}} if you are interested in attending. Participation in the workshop is free of charge but the number of participants is limited. Priority will be given to junior researchers (PhD students and postdocs) and researchers who take part in the poster session and the collaborative task if we need to limit the number of attendees. 
 
 #### Organizers
 Tamar Johnson (t.johnson@uva.nl)  
@@ -15,7 +16,7 @@ Marianne de Heer Kloots (m.l.s.deheerkloots@uva.nl)
 
 #### Venue
 Institute for Logic, Language and Computation  
-[SustainaLab](https://www.sustainalab.nl/event-space/) event space, Amsterdam Science Park campus, University of Amsterdam  
+SustainaLab event space, Amsterdam Science Park campus, University of Amsterdam  
 
 #### Confirmed keynote speakers:
 
@@ -88,8 +89,17 @@ We hope to publish our complete workshop programme within the next few weeks, ch
 {{< /rawhtml >}}
 
 #### Acknowledgements
-This workshop is supported by and organized as part of the _Language in Interaction_ consortium (NWO Gravitation Grant 024.001.006).
+This workshop is supported by and organized as part of the _Language in Interaction_ consortium (NWO Gravitation Grant 024.001.006). We are also very thankful to the SustainaLab for lending us their space! 
 
 {{< rawhtml >}}
-<a href="https://www.dcc.ru.nl/languageininteraction/"><img src="/images/LiI_Logo_450px.jpg" width=300></img></a>
+<div class="flex-container">
+    <div class="flex-item-left">
+        <a href="https://www.dcc.ru.nl/languageininteraction/"><img src="/images/LiI_Logo_450px.jpg" width=300></img></a>
+    </div>
+    <div class="flex-item-center"></div>
+    <div class="flex-item-right">
+        <a href="https://sustainalab.nl/"><img src="https://www.sustainalab.nl/wp-content/uploads/2023/11/SustainaLab_Logo_RGB.png" width=150></img></a>
+    </div>
+</div>
 {{< /rawhtml >}}
+
