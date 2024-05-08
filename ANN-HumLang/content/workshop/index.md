@@ -5,7 +5,7 @@ title: "Workshop"
 ### Workshop (10-12 June, 2024)
 Artificial Neural Networks (ANNs) have proven to be powerful learning devices for language-related tasks, as demonstrated by recent progress in artificial intelligence driven by large, Transformer-based language models. But how can ANNs inform us about _human_ language learning and processing? Our three-day workshop brings together researchers working on cognitively motivated and linguistic questions in studying the language processing mechanisms and learning trajectories of ANNs. 
 
-For the first two days of the programme, we hope to stimulate discussion on the workshop theme through contributed presentations from our workshop participants and keynote speakers. The final day will be focussed on active interactions and collaboration between participants, through small-scale tutorials and joint group work on a collaborative task. We will share more information on this page soon.
+For the first two days of the programme, we hope to stimulate discussion on the workshop theme through contributed presentations from our workshop participants and keynote speakers. The final day is focussed on active interactions and collaboration between participants, through small-scale tutorials and joint group work on a collaborative task. See our provisional [programme](#programme) below for more information and currently confirmed participants!
 
 #### Registration
 Registration is now open! Please {{< rawhtml >}}<a href="https://forms.gle/6yn1ZRv7jf6pAVyE6"><button><b>register here</b></button></a>{{< /rawhtml >}} if you are interested in attending. Participation in the workshop is free of charge but the number of participants is limited. Priority will be given to junior researchers (PhD students and postdocs) and researchers who take part in the poster session and the collaborative task if we need to limit the number of attendees. 
@@ -44,7 +44,7 @@ Neural network language models are pure prediction engines, they have no communi
 
 #### Programme
 
-We hope to publish our complete workshop programme within the next few weeks, check back soon!
+Note that time slots in the schedule below are still preliminary and subject to change. We hope to publish our finalized programme within the next few weeks, check back soon!
 
 ##### Monday June 10th
 {{< rawhtml >}}
