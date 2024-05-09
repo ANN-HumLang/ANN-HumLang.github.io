@@ -120,7 +120,8 @@ Note that time slots in the schedule below are still preliminary and subject to 
     <td>Position statements by <a href="https://michaheilbron.github.io/">Micha Heilbron</a> (University of Amsterdam) and <a href="http://www.stefanfrank.info/">Stefan Frank</a> (Radboud University Nijmegen)</td>
   </tr>
     <td>16.45 - 17.15</td>
-    <td>Discussion on using ANNs in modelling language processing</td>
+    <td>Discussion on using ANNs in modelling language processing<br>
+    Moderator: <a href="https://staff.fnwi.uva.nl/r.fernandezrovira/">Raquel Fernández</a></td>
   <tr>
     <td>17.15 - 17.30</td>
     <td>Closing</td>
