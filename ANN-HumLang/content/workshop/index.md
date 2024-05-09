@@ -8,7 +8,7 @@ Artificial Neural Networks (ANNs) have proven to be powerful learning devices fo
 For the first two days of the programme, we hope to stimulate discussion on the workshop theme through contributed presentations from our workshop participants and keynote speakers. The final day is focussed on active interactions and collaboration between participants, through small-scale tutorials and joint group work on a collaborative task. See our provisional [programme](#programme) below for more information and currently confirmed participants!
 
 #### Registration
-Registration is now open! Please {{< rawhtml >}}<a href="https://forms.gle/6yn1ZRv7jf6pAVyE6"><button><b>register here</b></button></a>{{< /rawhtml >}} if you are interested in attending. Participation in the workshop is free of charge but the number of participants is limited. Priority will be given to junior researchers (PhD students and postdocs) and researchers who take part in the poster session and the collaborative task if we need to limit the number of attendees. 
+Registration is now open until **May 24th**! Please {{< rawhtml >}}<a href="https://forms.gle/6yn1ZRv7jf6pAVyE6"><button><b>register here</b></button></a>{{< /rawhtml >}} if you are interested in attending. Participation in the workshop is free of charge but the number of participants is limited. Priority will be given to junior researchers (PhD students and postdocs) and researchers who take part in the poster session and the collaborative task if we need to limit the number of attendees. 
 
 #### Organizers
 Tamar Johnson (t.johnson@uva.nl)  
