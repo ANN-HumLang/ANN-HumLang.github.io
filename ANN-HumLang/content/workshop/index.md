@@ -46,7 +46,7 @@ Neural network language models are pure prediction engines, they have no communi
 
 Note that time slots in the schedule below are still preliminary and subject to change. We hope to publish our finalized programme within the next few weeks, check back soon!
 
-##### Monday June 10th
+##### Monday June 10th: First day of lecture, talks and posters
 {{< rawhtml >}}
 <table>
 <tbody>
@@ -84,7 +84,7 @@ Note that time slots in the schedule below are still preliminary and subject to 
 </table>
 {{< /rawhtml >}}
 
-##### Tuesday June 11th
+##### Tuesday June 11th: Second day of lectures, talks and discussions
 {{< rawhtml >}}
 <table>
 <tbody>
@@ -130,13 +130,13 @@ Note that time slots in the schedule below are still preliminary and subject to 
 </table>
 {{< /rawhtml >}}
 
-##### Wednesday June 12th
+##### Wednesday June 12th: Interactions on learning trajectories in smaller- and larger-scale models
 {{< rawhtml >}}
 <table>
 <tbody>
   <tr>
     <td style="width:20%">09.30 - 09.45</td>
-    <td style="width:80%">Introduction to the tutorials and collaborative task</td>
+    <td style="width:80%">Introduction to the tutorials and collaborative tasks</td>
   </tr>
   <tr>
     <td>09.45 - 10.30</td>
@@ -156,7 +156,7 @@ Note that time slots in the schedule below are still preliminary and subject to 
   </tr>
   <tr>
     <td>13.00 - 17.30</td>
-    <td>Group work on collaborative task & Discussion of findings</td>
+    <td>Group work on collaborative tasks & Discussion of findings</td>
   </tr>
   <tr>
     <td>17.30</td>
@@ -167,7 +167,7 @@ Note that time slots in the schedule below are still preliminary and subject to 
 {{< /rawhtml >}}
 
 #### Acknowledgements
-This workshop is supported by and organized as part of the _Language in Interaction_ consortium (NWO Gravitation Grant 024.001.006). We are also very thankful to the SustainaLab for lending us their space! 
+This workshop is supported by and organized as part of the _Language in Interaction_ consortium (NWO Gravitation Grant 024.001.006). We are also very thankful to the SustainaLab for lending us their space, and to Jelle Zuidema and the ILLC office for organizational advice and support! 
 
 {{< rawhtml >}}
 <div class="flex-container">
