@@ -121,7 +121,7 @@ Note that time slots in the schedule below are still preliminary and subject to 
   </tr>
     <td>16.45 - 17.15</td>
     <td>Discussion on using ANNs in modelling language processing<br>
-    Moderator: <a href="https://staff.fnwi.uva.nl/r.fernandezrovira/">Raquel Fernández</a></td>
+    Moderator: <a href="https://staff.fnwi.uva.nl/r.fernandezrovira/">Raquel Fernández</a> (University of Amsterdam)</td>
   <tr>
     <td>17.15 - 17.30</td>
     <td>Closing</td>
@@ -140,11 +140,11 @@ Note that time slots in the schedule below are still preliminary and subject to 
   </tr>
   <tr>
     <td>09.45 - 10.30</td>
-    <td>First tutorial by <a href="https://hconklin.com/">Henry Conklin</a> (University of Edinburgh): <br><i>Language learning as regularization - A non-parametric probing method for studying the emergence of structured representations over model training</i></td>
+    <td>First tutorial by <a href="https://hconklin.com/">Henry Conklin</a> (University of Edinburgh) <br><i>Language learning as regularization: A non-parametric probing method for studying the emergence of structured representations over model training</i></td>
   </tr>
   <tr>
     <td>10.30 - 11.15</td>
-    <td>Second tutorial by <a href="https://odvanderwal.nl/">Oskar van der Wal</a> & <a href="https://mdhk.net/">Marianne de Heer Kloots</a> (University of Amsterdam): <i>Training dynamics & Behavioural characterizations of grammar learning</i></td>
+    <td>Second tutorial by <a href="https://odvanderwal.nl/">Oskar van der Wal</a> & <a href="https://mdhk.net/">Marianne de Heer Kloots</a> (University of Amsterdam) <br><i>What's in a developmental phase? Training dynamics & Behavioural characterizations of grammar learning</i></td>
   </tr>
   <tr>
     <td>11.15 - 12.00</td>
