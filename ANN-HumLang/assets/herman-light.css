@@ -242,3 +242,47 @@ figcaption>p {
     text-align: center;
     font-style: italic;
 }
+
+.wrapper {
+    overflow: auto;
+    border-radius: 8px;
+    border: 0px;
+}
+
+table,
+tr,
+td,
+th {
+    border: 0px;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: rgba(0, 180, 157, 0.8);
+}
+
+td:first-of-type {
+    width: 20%;
+}
+
+tr {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+tr.session {
+    background-color: rgba(0, 180, 157, 0.03);
+}
+
+tr:hover {
+    background-color: rgba(0, 180, 157, 0.12);
+}
+
+tr.header {
+    cursor: pointer;
+    border-bottom: 0px;
+}
+
+tr.subheader {
+    cursor: pointer;
+    border-bottom: 0px;
+}

@@ -18,7 +18,7 @@ Marianne de Heer Kloots (m.l.s.deheerkloots@uva.nl)
 Institute for Logic, Language and Computation  
 SustainaLab event space, Amsterdam Science Park campus, University of Amsterdam  
 
-#### Confirmed keynote speakers:
+#### Keynote speakers:
 
 [Arianna Bisazza](https://www.cs.rug.nl/~bisazza/) (University of Groningen)  
 {{< details "_Can modern Language Models be truly polyglot? Language learnability and inequalities in NLP_" >}}
@@ -44,58 +44,117 @@ Neural network language models are pure prediction engines, they have no communi
 
 #### Programme
 
-Note that time slots in the schedule below are still preliminary and subject to change. We hope to publish our finalized programme within the next few weeks, check back soon!
-
-##### Monday June 10th: First day of lecture, talks and posters
 {{< rawhtml >}}
-<table>
-<tbody>
+<div class="wrapper">
+<table border="0">
+  <tr  class="header">
+      <th colspan="2"><span>▾</span> Monday June 10th: <br>First day of keynote, talks and posters</th>
+  </tr>
   <tr>
-    <td style="width:20%">13.30 - 14.00</td>
-    <td style="width:80%">Walk-in / registration</td>
+    <td>13.30 - 14.00</td>
+    <td>
+    Walk-in & Registration
+    </td>
   </tr>
   <tr>
     <td>14.00 - 14.15</td>
-    <td>Opening</td>
+    <td>
+    Opening
+    </td>
   </tr>
   <tr>
     <td>14.15 - 15.15</td>
-    <td><b>Keynote lecture</b> <br> Arianna Bisazza - <i>Can modern Language Models be truly polyglot? Language learnability and inequalities in NLP</i></td>
+    <td>
+    <b>Keynote lecture</b> by <a href="https://www.cs.rug.nl/~bisazza/">Arianna Bisazza</a> (University of Groningen):
+    <br>
+    <i>Can modern Language Models be truly polyglot? Language learnability and inequalities in NLP</i>
+    </td>
   </tr>
   <tr>
-    <td>15.15 - 16.15</td>
-    <td><b>Talks</b> <br> Confirmed speakers: <br><a href="https://www.universiteitleiden.nl/en/staffmembers/tessa-verhoef">Tessa Verhoef</a> (Leiden University), <br><a href="https://lgalke.github.io/">Lukas Galke</a> (MPI Nijmegen)</td>
-    <td></td>
-    <td></td>
+    <td>15.15 - 15.45</td>
+    <td>
+    <b>Talk</b> by <a href="https://sites.google.com/view/tessa-verhoef/home">Tessa Verhoef</a> (Leiden University):
+    <br>
+    <i>The emergence of language universals in neural agents and vision-and-language models</i>
+    </td>
   </tr>
   <tr>
-    <td>16:15 - 16:30</td>
-    <td>Break</td>
+    <td>15.45 - 16.15</td>
+    <td>
+    <b>Talk</b> by <a href="https://lgalke.github.io/">Lukas Galke</a> (Max Planck Institute for Psycholinguistics):
+    <br>
+    <i>Emergent communication and learning pressures in language models</i>
+    </td>
   </tr>
   <tr>
-    <td>16:30 - 18:00</td>
-    <td><b>Poster session</b></td>
+    <td>16.15 - 16.30</td>
+    <td>
+    Break
+    </td>
   </tr>
   <tr>
-    <td>19:00 - 21:00</td>
-    <td>Workshop dinner</td>
-  </tr>
-</tbody>
-</table>
-{{< /rawhtml >}}
-
-##### Tuesday June 11th: Second day of lectures, talks and discussions
-{{< rawhtml >}}
-<table>
-<tbody>
-  <tr>
-    <td style="width:20%">09.30 - 10.30</td>
-    <td style="width:80%"><b>Keynote lecture</b><br>
-    Eva Portelance - <i>What neural networks can teach us about how we learn language</i></td>
+    <td>16.30 - 18.00</td>
+    <td>
+    <b>Poster session</b>
+    </td>
   </tr>
   <tr>
-    <td>10.30 - 12.45</td>
-    <td>Talk session and moderated discussion on <b>language learning</b> <br>Confirmed speakers: <br><a href="https://rgalhama.github.io/">Raquel Alhama</a> (University of Amsterdam), <br><a href="https://mahowak.github.io/">Kyle Mahowald</a> (University of Texas at Austin), <br><a href="https://yevgen.web.rug.nl/">Yevgen Matusevych</a> (University of Groningen)</td>
+    <td>19.00 - 21.00</td>
+    <td>
+    Workshop dinner
+    </td>
+  </tr>
+  <tr class="header">
+    <th colspan="2"><span>▾</span> Tuesday June 11th: <br>Second day of keynotes, talks and discussions</th>
+  </tr>
+  <tr>
+    <td>09.30 - 10.30</td>
+    <td>
+    <b>Keynote lecture</b> by <a href="https://evaportelance.github.io/">Eva Portelance</a> (Mila; HEC Montréal):<br>
+    <i>What neural networks can teach us about how we learn language</i>
+    </td>
+  </tr>
+  <tr style="font-size:90%;font-weight:bold;background-color:rgba(0, 180, 157, 0.1)">
+  <td colspan="2">Session on language learning</td>
+  </tr>
+  <tr class="session">
+    <td>10.30 - 11.00</td>
+    <td>
+    <b>Talk</b> by <a href="https://rgalhama.github.io/">Raquel Alhama</a> (University of Amsterdam):
+    <br>
+    <i>Title TBA</i>
+    </td>
+  </tr>
+  <tr class="session">
+    <td>11.00 - 11.30</td>
+    <td>
+    <b>Talk</b> by <a href="https://mahowak.github.io/">Kyle Mahowald</a> (University of Texas at Austin):
+    <br>
+    <i>ANNs and AANNs: Linguistic Insights from Language Models</i>
+    </td>
+  </tr>
+  <tr class="session">
+    <td>11.30 - 11.45</td>
+    <td>
+    Break
+    </td>
+  </tr>
+  <tr class="session">
+    <td>11.45 - 12.15</td>
+    <td>
+    <b>Talk</b> by <a href="https://yevgen.web.rug.nl/">Yevgen Matusevych</a> (University of Groningen):
+    <br>
+    <i>Mutual exclusivity bias in visually grounded speech models</i>
+    </td>
+  </tr>
+  <tr class="session">
+    <td>12.15 - 12.45</td>
+    <td>
+    <b>Discussion</b> on <i>using ANNs in modelling language learning</i>
+    <br>
+    Moderator: <a href="https://www.uva.nl/en/profile/s/t/c.e.stevenson/c.e.stevenson.html">Claire Stevenson</a> (University of Amsterdam)
+    </td>
+  </tr>
   </tr>
   <tr>
     <td>12.45 - 14.00</td>
@@ -103,67 +162,109 @@ Note that time slots in the schedule below are still preliminary and subject to 
   </tr>
   <tr>
     <td>14.00 - 15.00</td>
-    <td><b>Keynote lecture</b><br>Ethan Wilcox - <i>Using artificial neural networks to study human language processing: Two case studies and a warning</i></td>
+    <td>
+    <b>Keynote lecture</b> by <a href="https://wilcoxeg.github.io/">Ethan Wilcox</a> (ETH Zürich):
+    <br>
+    <i>Using artificial neural networks to study human language processing: Two case studies and a warning</i>
+    </td>
   </tr>
-  <tr>
-    <td>15.00 - 16.00</td>
-    <td>Talk session on modelling <b>language processing</b><br>
-    Confirmed speakers: <br>
-    <a href="https://iwinther.github.io/">Irene Winther</a> (University of Edinburgh)<br><a href="https://scholar.google.nl/citations?user=hC9ygKAAAAAJ&hl=en&oi=ao">Pierre Orhan</a> (École Normale Supérieure)</td>
+  <tr style="font-size:90%;font-weight:bold;background-color:rgba(0, 180, 157, 0.1)">
+  <td colspan="2">Session on language processing</td>
   </tr>
-  <tr>
+  <tr class="session">
+    <td>15.00 - 15.30</td>
+    <td>
+    <b>Talk</b> by <a href="https://iwinther.github.io/">Irene Winther</a> (University of Edinburgh):
+    <br>
+    <i>Cumulative frequency can explain cognate facilitation in language models</i>
+    </td>
+  </tr>
+  <tr class="session">
+    <td>15.30 - 16.00</td>
+    <td>
+    <b>Talk</b> by <a href="https://scholar.google.nl/citations?user=hC9ygKAAAAAJ&hl=en&oi=ao">Pierre Orhan</a> (École Normale Supérieure):
+    <br>
+    <i>Algebraic structures emerge from the self-supervised learning of natural sounds</i>
+    </td>
+  </tr>
+  <tr class="session">
     <td>16.00 - 16.15</td>
-    <td>Break</td>
+    <td>
+    Break
+    </td>
   </tr>
-  <tr>
+  <tr class="session">
     <td>16.15 - 16.45</td>
-    <td>Position statements by <a href="https://michaheilbron.github.io/">Micha Heilbron</a> (University of Amsterdam) and <a href="http://www.stefanfrank.info/">Stefan Frank</a> (Radboud University Nijmegen)</td>
+    <td>
+    <b>Position statements</b> by <a href="https://michaheilbron.github.io/">Micha Heilbron</a> (University of Amsterdam) and <a href="http://www.stefanfrank.info/">Stefan Frank</a> (Radboud University Nijmegen)
+    </td>
   </tr>
+  <tr class="session">
     <td>16.45 - 17.15</td>
-    <td>Discussion on using ANNs in modelling language processing<br>
-    Moderator: <a href="https://staff.fnwi.uva.nl/r.fernandezrovira/">Raquel Fernández</a> (University of Amsterdam)</td>
+    <td>
+    <b>Discussion</b> on <i>using ANNs in modelling language processing</i><br>
+    Moderator: <a href="https://staff.fnwi.uva.nl/r.fernandezrovira/">Raquel Fernández</a> (University of Amsterdam)
+    </td>
+  </tr>
   <tr>
     <td>17.15 - 17.30</td>
-    <td>Closing</td>
+    <td>
+    Closing
+    </td>
   </tr>
-</tbody>
-</table>
-{{< /rawhtml >}}
-
-##### Wednesday June 12th: Interactions on learning trajectories in smaller- and larger-scale models
-{{< rawhtml >}}
-<table>
-<tbody>
-  <tr>
-    <td style="width:20%">09.30 - 09.45</td>
-    <td style="width:80%">Introduction to the tutorials and collaborative tasks</td>
+<tr class="header">
+    <th colspan="2"><span>▾</span> Wednesday June 12th: <br>Interactions on learning trajectories in smaller- and larger-scale models</th>
+</tr>
+<tr>
+    <td>09.30 - 09.45</td>
+    <td>
+    Introduction to the tutorials and collaborative tasks
+    </td>
   </tr>
-  <tr>
+<tr>
     <td>09.45 - 10.30</td>
-    <td>First tutorial by <a href="https://hconklin.com/">Henry Conklin</a> (University of Edinburgh) <br><i>Language learning as regularization: A non-parametric probing method for studying the emergence of structured representations over model training</i></td>
+    <td>
+    <b>First tutorial</b> by <a href="https://hconklin.com/">Henry Conklin</a> (University of Edinburgh): <br><i>Language learning as regularization: A non-parametric probing method for studying the emergence of structured representations over model training</i>
+    </td>
   </tr>
-  <tr>
+<tr>
     <td>10.30 - 11.15</td>
-    <td>Second tutorial by <a href="https://odvanderwal.nl/">Oskar van der Wal</a> & <a href="https://mdhk.net/">Marianne de Heer Kloots</a> (University of Amsterdam) <br><i>What's in a developmental phase? Training dynamics & Behavioural characterizations of grammar learning</i></td>
+    <td>
+    <b>Second tutorial</b> by <a href="https://odvanderwal.nl/">Oskar van der Wal</a> & <a href="https://mdhk.net/">Marianne de Heer Kloots</a> (University of Amsterdam): <br><i>What's in a developmental phase? Training dynamics & Behavioural characterizations of grammar learning</i>
+    </td>
   </tr>
-  <tr>
+<tr>
     <td>11.15 - 12.00</td>
-    <td>Split up in groups & brainstorm</td>
+    <td>
+    Split up in groups & brainstorm
+    </td>
   </tr>
-  <tr>
+<tr>
     <td>12.00 - 13.00</td>
-    <td>Lunch</td>
+    <td>
+    Lunch
+    </td>
   </tr>
-  <tr>
-    <td>13.00 - 17.30</td>
-    <td>Group work on collaborative tasks & Discussion of findings</td>
+<tr>
+    <td>13.00 - 16.00</td>
+    <td>
+    Group work on collaborative tasks
+    </td>
   </tr>
-  <tr>
+<tr>
+    <td>16.00 - 17.30</td>
+    <td>
+    Discussion of findings
+    </td>
+  </tr>
+<tr>
     <td>17.30</td>
-    <td>Drinks</td>
+    <td>
+    Drinks
+    </td>
   </tr>
-</tbody>
 </table>
+</div>
 {{< /rawhtml >}}
 
 #### Acknowledgements
@@ -180,4 +281,3 @@ This workshop is supported by and organized as part of the _Language in Interact
     </div>
 </div>
 {{< /rawhtml >}}
-
