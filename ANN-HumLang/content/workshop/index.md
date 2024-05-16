@@ -120,9 +120,9 @@ Neural network language models are pure prediction engines, they have no communi
   <tr class="session">
     <td>10.30 - 11.00</td>
     <td>
-    <b>Talk</b> by <a href="https://rgalhama.github.io/">Raquel Alhama</a> (University of Amsterdam):
+    <b>Talk</b> by <a href="https://rgalhama.github.io/">Raquel G. Alhama</a> (University of Amsterdam):
     <br>
-    <i>Title TBA</i>
+    <i>The Development of a Syntactic Category: Modeling Determiner Productivity in English-speaking Children</i>
     </td>
   </tr>
   <tr class="session">
