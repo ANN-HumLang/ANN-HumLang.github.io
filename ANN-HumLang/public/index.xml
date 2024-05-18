@@ -163,7 +163,7 @@ Finally, I will provide an outlook of my upcoming project aimed at improving lan
   <tr>
     <td>16.30 - 18.00</td>
     <td>
-    <b>Poster session</b>
+    <b>Poster session</b> (see <a href="#list-of-posters">list of posters</a>)
     </td>
   </tr>
   <tr>
@@ -334,6 +334,25 @@ Finally, I will provide an outlook of my upcoming project aimed at improving lan
 </table>
 </div>
 
+<h4 id="list-of-posters">List of posters</h4>
+<p>(this list is growing while registration is still open!)</p>
+<ul>
+<li><a href="https://gacarter.github.io/">Georgia Carter</a> (University of Edinburgh)<br>
+<em>Predicting long context effects using surprisal</em></li>
+<li><a href="https://axtimhaus.eu/">Victor Zimmermann</a> (Göttingen University)<br>
+<em>Compositional phrase embeddings from latent Tree-LSTM representations</em></li>
+<li><a href="https://www.ru.nl/en/people/suijkerbuijk-m">Michelle Suijkerbuijk</a> (Radboud University)<br>
+<em>How (not) to test the syntactic knowledge in artificial neural networks: the case of island constraints</em></li>
+<li><a href="https://hannamw.github.io/">Michael Hanna</a> (University of Amsterdam)<br>
+<em>Building Mechanistic Bridges Between Biological and Artificial Neural Networks</em></li>
+<li><a href="https://tianaidong.github.io/">Dota Dong</a> (Max Planck Institute for Psycholinguistics)<br>
+<em>You&rsquo;ve got THIS! Behavioral and Computational Approaches to Children’s Acquisition of Demonstratives</em></li>
+<li><a href="https://www.linkedin.com/in/jos%C3%A9phine-raugel-738283134/">Joséphine Raugel</a> (École Normale Supérieure, Meta AI)<br>
+<em>Decoding of Hierarchical Inference in the Human Brain during Speech Processing with Large Language Models</em></li>
+<li><a href="https://scholar.google.com/citations?user=cpOrbSoAAAAJ&hl=en">Shangmin Guo</a> (University of Edinburgh)<br>
+<em>Cultural evolution in the age of generative AI</em></li>
+<li><a href="https://www.universiteitleiden.nl/en/staffmembers/tom-kouwenhoven#tab-1">Tom Kouwenhoven</a> (Leiden University)</li>
+</ul>
 <h4 id="acknowledgements">Acknowledgements</h4>
 <p>This workshop is supported by and organized as part of the <em>Language in Interaction</em> consortium (NWO Gravitation Grant 024.001.006). We are also very thankful to the SustainaLab for lending us their space, and to Jelle Zuidema and the ILLC office for organizational advice and support!</p>
 

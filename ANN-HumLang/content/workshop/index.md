@@ -8,7 +8,7 @@ Artificial Neural Networks (ANNs) have proven to be powerful learning devices fo
 For the first two days of the programme, we hope to stimulate discussion on the workshop theme through contributed presentations from our workshop participants and keynote speakers. The final day is focussed on active interactions and collaboration between participants, through small-scale tutorials and joint group work on a collaborative task. See our provisional [programme](#programme) below for more information and currently confirmed participants!
 
 #### Registration
-Registration is now open until **May 24th**! Please {{< rawhtml >}}<a href="https://forms.gle/6yn1ZRv7jf6pAVyE6"><button><b>register here</b></button></a>{{< /rawhtml >}} if you are interested in attending. Participation in the workshop is free of charge but the number of participants is limited. Priority will be given to junior researchers (PhD students and postdocs) and researchers who take part in the poster session and the collaborative task if we need to limit the number of attendees. 
+Registration is now open until **May 24th**! Please {{< rawhtml >}}<a href="https://forms.gle/6yn1ZRv7jf6pAVyE6"><button><b>register here</b></button></a>{{< /rawhtml >}} if you are interested in attending. Participation in the workshop is free of charge but the number of participants is limited. Priority will be given to junior researchers (PhD students and postdocs) and researchers who take part in the poster session and the collaborative task if we need to limit the number of attendees.  
 
 #### Organizers
 Tamar Johnson (t.johnson@uva.nl)  
@@ -95,7 +95,7 @@ Neural network language models are pure prediction engines, they have no communi
   <tr>
     <td>16.30 - 18.00</td>
     <td>
-    <b>Poster session</b>
+    <b>Poster session</b> (see <a href="#list-of-posters">list of posters</a>)
     </td>
   </tr>
   <tr>
@@ -266,6 +266,25 @@ Neural network language models are pure prediction engines, they have no communi
 </table>
 </div>
 {{< /rawhtml >}}
+
+#### List of posters
+(this list is growing while registration is still open!)  
+- [Georgia Carter](https://gacarter.github.io/) (University of Edinburgh)  
+  _Predicting long context effects using surprisal_
+- [Victor Zimmermann](https://axtimhaus.eu/) (Göttingen University)  
+  _Compositional phrase embeddings from latent Tree-LSTM representations_
+- [Michelle Suijkerbuijk](https://www.ru.nl/en/people/suijkerbuijk-m) (Radboud University)  
+  _How (not) to test the syntactic knowledge in artificial neural networks: the case of island constraints_
+- [Michael Hanna](https://hannamw.github.io/) (University of Amsterdam)  
+  _Building Mechanistic Bridges Between Biological and Artificial Neural Networks_
+- [Dota Dong](https://tianaidong.github.io/) (Max Planck Institute for Psycholinguistics)  
+  _You've got THIS! Behavioral and Computational Approaches to Children’s Acquisition of Demonstratives_  
+- [Joséphine Raugel](https://www.linkedin.com/in/jos%C3%A9phine-raugel-738283134/) (École Normale Supérieure, Meta AI)  
+  _Decoding of Hierarchical Inference in the Human Brain during Speech Processing with Large Language Models_
+- [Shangmin Guo](https://scholar.google.com/citations?user=cpOrbSoAAAAJ&hl=en) (University of Edinburgh)  
+  _Cultural evolution in the age of generative AI_
+- [Tom Kouwenhoven](https://www.universiteitleiden.nl/en/staffmembers/tom-kouwenhoven#tab-1) (Leiden University)  
+
 
 #### Acknowledgements
 This workshop is supported by and organized as part of the _Language in Interaction_ consortium (NWO Gravitation Grant 024.001.006). We are also very thankful to the SustainaLab for lending us their space, and to Jelle Zuidema and the ILLC office for organizational advice and support! 
