@@ -284,6 +284,7 @@ Neural network language models are pure prediction engines, they have no communi
 - [Shangmin Guo](https://scholar.google.com/citations?user=cpOrbSoAAAAJ&hl=en) (University of Edinburgh)  
   _Cultural evolution in the age of generative AI_
 - [Tom Kouwenhoven](https://www.universiteitleiden.nl/en/staffmembers/tom-kouwenhoven#tab-1) (Leiden University)  
+  _The Curious Case of Representational Alignment: Unravelling Visio-Linguistic Tasks in Emergent Communication_
 
 
 #### Acknowledgements
