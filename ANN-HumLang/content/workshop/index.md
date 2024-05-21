@@ -278,13 +278,15 @@ Neural network language models are pure prediction engines, they have no communi
 - [Michael Hanna](https://hannamw.github.io/) (University of Amsterdam)  
   _Building Mechanistic Bridges Between Biological and Artificial Neural Networks_
 - [Dota Dong](https://tianaidong.github.io/) (Max Planck Institute for Psycholinguistics)  
-  _You've got THIS! Behavioral and Computational Approaches to Children’s Acquisition of Demonstratives_  
+  _Multimodal Video Transformers Partially Align with Multimodal Grounding and Compositionality in the Brain_  
 - [Joséphine Raugel](https://www.linkedin.com/in/jos%C3%A9phine-raugel-738283134/) (École Normale Supérieure, Meta AI)  
   _Decoding of Hierarchical Inference in the Human Brain during Speech Processing with Large Language Models_
 - [Shangmin Guo](https://scholar.google.com/citations?user=cpOrbSoAAAAJ&hl=en) (University of Edinburgh)  
   _Cultural evolution in the age of generative AI_
 - [Tom Kouwenhoven](https://www.universiteitleiden.nl/en/staffmembers/tom-kouwenhoven#tab-1) (Leiden University)  
   _The Curious Case of Representational Alignment: Unravelling Visio-Linguistic Tasks in Emergent Communication_
+- [Jaap Jumelet](https://jumelet.ai/) (University of Amsterdam)  
+  _Do Language Models Exhibit Human-like Structural Priming Effects?_
 
 
 #### Acknowledgements
