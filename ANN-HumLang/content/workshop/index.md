@@ -9,7 +9,7 @@ For the first two days of the programme, we hope to stimulate discussion on the 
 
 #### Registration
 Registration is now open until **May 24th**! Please {{< rawhtml >}}<a href="https://forms.gle/6yn1ZRv7jf6pAVyE6"><button><b>register here</b></button></a>{{< /rawhtml >}} if you are interested in attending. Participation in the workshop is free of charge but the number of participants is limited. Priority will be given to junior researchers (PhD students and postdocs) and researchers who take part in the poster session and the collaborative task if we need to limit the number of attendees.  
-**Update 05/21:** We have received some requests about possibilities for streaming and/or recording workshop talks. We are looking into this. Please [leave your e-mail address here](https://forms.gle/ntAomXz2mYUMQXpY8) in case you would like to receive further information if we manage to organize some form of virtual attendance and/or recording.
+**Update 05/21:** We have received some requests about possibilities for streaming and/or recording workshop talks. We are looking into this. Please [leave your e-mail address here](https://forms.gle/ntAomXz2mYUMQXpY8) if you would like to receive further information in case we manage to organize some form of virtual attendance and/or recording.
 
 #### Organizers
 Tamar Johnson (t.johnson@uva.nl)  
