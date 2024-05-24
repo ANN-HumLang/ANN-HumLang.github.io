@@ -288,6 +288,20 @@ Neural network language models are pure prediction engines, they have no communi
   _The Curious Case of Representational Alignment: Unravelling Visio-Linguistic Tasks in Emergent Communication_
 - [Jaap Jumelet](https://jumelet.ai/) (University of Amsterdam)  
   _Do Language Models Exhibit Human-like Structural Priming Effects?_
+- [Henry Conklin](https://hconklin.com/) (University of Edinburgh)  
+  _Representations as Language: An Information Theoretic Approach to Interpretability_
+- [Polina Tsvilodub](https://scholar.google.com/citations?user=GrYhyIQAAAAJ&hl=en) (University of Tübingen)  
+  _Models of pragmatic language use with scaffolded LLMs_
+- [Torrey Snyder](https://www.linkedin.com/in/torrey-snyder-054956214/) (University of Amsterdam)  
+  _Encoding Semantic Scene Descriptions: Cross-Modal Representations from Language to Vision_
+- [Nitya Shah](https://www.linkedin.com/in/nitya-shah-320834267/) (University of Amsterdam)  
+  _Social Reasoning (Theory of Mind) in Language-and-Vision Models and Humans_
+- [Matthias Brucklacher](https://www.uva.nl/en/profile/b/r/m.m.brucklacher/m.m.brucklacher.html) (University of Amsterdam)  
+  _Prediction as a mechanism for cognitive representation learning_
+- [Jelke Bloem](https://www.uva.nl/profiel/b/l/j.bloem/j.bloem.html) (University of Amsterdam)   
+  _Using Collostructional Analysis to evaluate BERT's representation of linguistic constructions_
+- [Dang Thi Thao Anh](https://www.linkedin.com/in/thi-thao-anh-dang/) (Radboud University)  
+  _Harnessing Cross-lingual Morphological Generalization Abilities in Large Language Models with a Multilingual Wug Test_
 
 
 #### Acknowledgements
