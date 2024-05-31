@@ -153,7 +153,7 @@ Neural network language models are pure prediction engines, they have no communi
     <td>
     <b>Discussion</b> on <i>using ANNs in modelling language learning</i>
     <br>
-    Moderator: <a href="https://www.uva.nl/en/profile/s/t/c.e.stevenson/c.e.stevenson.html">Claire Stevenson</a> (University of Amsterdam)
+    Moderator: <a href="https://staff.fnwi.uva.nl/w.zuidema/">Jelle Zuidema</a> (University of Amsterdam)
     </td>
   </tr>
   </tr>
