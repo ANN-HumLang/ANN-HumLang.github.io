@@ -44,6 +44,7 @@ Neural network language models are pure prediction engines, they have no communi
 {{< /details >}}
 
 #### Programme
+We have some pending timeslot shifts for our Tuesday and Wednesday schedule; please keep checking this webpage for the most up-to-date schedule!
 
 {{< rawhtml >}}
 <div class="wrapper">
