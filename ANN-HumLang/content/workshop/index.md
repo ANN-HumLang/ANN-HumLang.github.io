@@ -44,7 +44,6 @@ Neural network language models are pure prediction engines, they have no communi
 {{< /details >}}
 
 #### Programme
-We have some pending timeslot shifts for our Tuesday and Wednesday schedule; please keep checking this webpage for the most up-to-date schedule!
 
 {{< rawhtml >}}
 <script src="https://kit.fontawesome.com/2502d9ad4b.js" crossorigin="anonymous"></script>
@@ -82,7 +81,13 @@ We have some pending timeslot shifts for our Tuesday and Wednesday schedule; ple
     </td>
   </tr>
   <tr>
-    <td>15.45 - 16.15 <br><i class="fa-solid fa-video fa-sm"></i></td>
+    <td>15.45 - 16.05</td>
+    <td>
+    Break
+    </td>
+  </tr>
+  <tr>
+    <td>16.05 - 16.35 <br><i class="fa-solid fa-video fa-sm"></i></td>
     <td>
     <b>Talk</b> by <a href="https://lgalke.github.io/">Lukas Galke</a> (Max Planck Institute for Psycholinguistics):
     <br>
@@ -90,13 +95,7 @@ We have some pending timeslot shifts for our Tuesday and Wednesday schedule; ple
     </td>
   </tr>
   <tr>
-    <td>16.15 - 16.30</td>
-    <td>
-    Break
-    </td>
-  </tr>
-  <tr>
-    <td>16.30 - 18.00</td>
+    <td>16.35 - 18.00</td>
     <td>
     <b>Poster session</b> (see <a href="#list-of-posters">list of posters</a>)
     </td>
@@ -111,7 +110,7 @@ We have some pending timeslot shifts for our Tuesday and Wednesday schedule; ple
     <th colspan="2"><span>▾</span> Tuesday June 11th: <br>Second day of keynotes, talks and discussions</th>
   </tr>
   <tr>
-    <td>09.30 - 10.30 <br><i class="fa-solid fa-video fa-sm"></i></td>
+    <td>09.45 - 10.45 <br><i class="fa-solid fa-video fa-sm"></i></td>
     <td>
     <b>Keynote lecture</b> by <a href="https://evaportelance.github.io/">Eva Portelance</a> (Mila; HEC Montréal):<br>
     <i>What neural networks can teach us about how we learn language</i>
@@ -121,7 +120,7 @@ We have some pending timeslot shifts for our Tuesday and Wednesday schedule; ple
   <td colspan="2">Session on language learning</td>
   </tr>
   <tr class="session">
-    <td>10.30 - 11.00 <br><i class="fa-solid fa-video fa-sm"></i></td>
+    <td>10.45 - 11.15 <br><i class="fa-solid fa-video fa-sm"></i></td>
     <td>
     <b>Talk</b> by <a href="https://rgalhama.github.io/">Raquel G. Alhama</a> (University of Amsterdam):
     <br>
@@ -129,7 +128,13 @@ We have some pending timeslot shifts for our Tuesday and Wednesday schedule; ple
     </td>
   </tr>
   <tr class="session">
-    <td>11.00 - 11.30 <br><i class="fa-solid fa-video fa-sm"></i></td>
+    <td>11.15 - 11.45</td>
+    <td>
+    Break
+    </td>
+  </tr>
+  <tr class="session">
+    <td>11.45 - 12.15 <br><i class="fa-solid fa-video fa-sm"></i></td>
     <td>
     <b>Talk</b> by <a href="https://mahowak.github.io/">Kyle Mahowald</a> (University of Texas at Austin):
     <br>
@@ -137,13 +142,7 @@ We have some pending timeslot shifts for our Tuesday and Wednesday schedule; ple
     </td>
   </tr>
   <tr class="session">
-    <td>11.30 - 11.45</td>
-    <td>
-    Break
-    </td>
-  </tr>
-  <tr class="session">
-    <td>11.45 - 12.15</td>
+    <td>12.15 - 12.45 <br><i class="fa-solid fa-video fa-sm"></i></td>
     <td>
     <b>Talk</b> by <a href="https://yevgen.web.rug.nl/">Yevgen Matusevych</a> (University of Groningen):
     <br>
@@ -151,7 +150,7 @@ We have some pending timeslot shifts for our Tuesday and Wednesday schedule; ple
     </td>
   </tr>
   <tr class="session">
-    <td>12.15 - 12.45 <br><i class="fa-solid fa-video fa-sm"></i></td>
+    <td>12.45 - 13.15 <br><i class="fa-solid fa-video fa-sm"></i></td>
     <td>
     <b>Discussion</b> on <i>using ANNs in modelling language learning</i>
     <br>
@@ -160,11 +159,11 @@ We have some pending timeslot shifts for our Tuesday and Wednesday schedule; ple
   </tr>
   </tr>
   <tr>
-    <td>12.45 - 14.00</td>
+    <td>13.15 - 14.30</td>
     <td>Lunch</td>
   </tr>
   <tr>
-    <td>14.00 - 15.00 <br><i class="fa-solid fa-video fa-sm"></i></td>
+    <td>14.30 - 15.30 <br><i class="fa-solid fa-video fa-sm"></i></td>
     <td>
     <b>Keynote lecture</b> by <a href="https://wilcoxeg.github.io/">Ethan Wilcox</a> (ETH Zürich):
     <br>
@@ -175,7 +174,7 @@ We have some pending timeslot shifts for our Tuesday and Wednesday schedule; ple
   <td colspan="2">Session on language processing</td>
   </tr>
   <tr class="session">
-    <td>15.00 - 15.30</td>
+    <td>15.30 - 16.00 <br><i class="fa-solid fa-video fa-sm"></i></td>
     <td>
     <b>Talk</b> by <a href="https://iwinther.github.io/">Irene Winther</a> (University of Edinburgh):
     <br>
@@ -183,7 +182,13 @@ We have some pending timeslot shifts for our Tuesday and Wednesday schedule; ple
     </td>
   </tr>
   <tr class="session">
-    <td>15.30 - 16.00 <br><i class="fa-solid fa-video fa-sm"></i></td>
+    <td>16.00 - 16.20</td>
+    <td>
+    Break
+    </td>
+  </tr>
+  <tr class="session">
+    <td>16.20 - 16.50 <br><i class="fa-solid fa-video fa-sm"></i></td>
     <td>
     <b>Talk</b> by <a href="https://scholar.google.nl/citations?user=hC9ygKAAAAAJ&hl=en&oi=ao">Pierre Orhan</a> (École Normale Supérieure):
     <br>
@@ -191,26 +196,20 @@ We have some pending timeslot shifts for our Tuesday and Wednesday schedule; ple
     </td>
   </tr>
   <tr class="session">
-    <td>16.00 - 16.15</td>
-    <td>
-    Break
-    </td>
-  </tr>
-  <tr class="session">
-    <td>16.15 - 16.45 <br><i class="fa-solid fa-video fa-sm"></i></td>
+    <td>16.50 - 17.20 <br><i class="fa-solid fa-video fa-sm"></i></td>
     <td>
     <b>Position statements</b> by <a href="https://michaheilbron.github.io/">Micha Heilbron</a> (University of Amsterdam) and <a href="http://www.stefanfrank.info/">Stefan Frank</a> (Radboud University Nijmegen)
     </td>
   </tr>
   <tr class="session">
-    <td>16.45 - 17.15 <br><i class="fa-solid fa-video fa-sm"></i></td>
+    <td>17.20 - 17.50 <br><i class="fa-solid fa-video fa-sm"></i></td>
     <td>
     <b>Discussion</b> on <i>using ANNs in modelling language processing</i><br>
     Moderator: <a href="https://staff.fnwi.uva.nl/r.fernandezrovira/">Raquel Fernández</a> (University of Amsterdam)
     </td>
   </tr>
   <tr>
-    <td>17.15 - 17.30</td>
+    <td>17.50 - 18.00</td>
     <td>
     Closing
     </td>
@@ -219,45 +218,52 @@ We have some pending timeslot shifts for our Tuesday and Wednesday schedule; ple
     <th colspan="2"><span>▾</span> Wednesday June 12th: <br>Interactions on learning trajectories in smaller- and larger-scale models</th>
 </tr>
 <tr>
-    <td>09.30 - 09.45</td>
+    <td>09.45 - 10.00</td>
     <td>
     Introduction to the tutorials and collaborative tasks
     </td>
   </tr>
 <tr>
-    <td>09.45 - 10.30</td>
+    <td>10.00 - 10.45</td>
     <td>
     <b>First tutorial</b> by <a href="https://hconklin.com/">Henry Conklin</a> (University of Edinburgh): <br><i>Language learning as regularization: A non-parametric probing method for studying the emergence of structured representations over model training</i>
     </td>
   </tr>
 <tr>
-    <td>10.30 - 11.15</td>
+    <td>10.45 - 11.30</td>
     <td>
     <b>Second tutorial</b> by <a href="https://odvanderwal.nl/">Oskar van der Wal</a> & <a href="https://mdhk.net/">Marianne de Heer Kloots</a> (University of Amsterdam): <br><i>What's in a developmental phase? Training dynamics & Behavioural characterizations of grammar learning</i>
     </td>
   </tr>
 <tr>
-    <td>11.15 - 12.00</td>
+    <td>11.30 - 12.15</td>
     <td>
     Split up in groups & brainstorm
     </td>
   </tr>
 <tr>
-    <td>12.00 - 13.00</td>
+    <td>12.15 - 13.15</td>
+    <td>
+    <b>Group work</b> on collaborative tasks
+    </td>
+  </tr>
+<tr>
+<tr>
+    <td>13.15 - 14.15</td>
     <td>
     Lunch
     </td>
   </tr>
 <tr>
-    <td>13.00 - 16.00</td>
+    <td>14.15 - 16.15</td>
     <td>
-    Group work on collaborative tasks
+    <b>Group work</b> on collaborative tasks
     </td>
   </tr>
 <tr>
-    <td>16.00 - 17.30</td>
+    <td>16.15 - 17.30</td>
     <td>
-    Discussion of findings
+    <b>Discussion</b> of findings
     </td>
   </tr>
 <tr>
