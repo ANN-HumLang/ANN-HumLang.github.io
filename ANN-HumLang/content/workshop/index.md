@@ -313,7 +313,7 @@ Neural network language models are pure prediction engines, they have no communi
 
 
 #### Acknowledgements
-This workshop is supported by and organized as part of the _Language in Interaction_ consortium (NWO Gravitation Grant 024.001.006). We are also very thankful to the SustainaLab for lending us their space, and to Jelle Zuidema and the ILLC office for organizational advice and support! 
+This workshop is supported by and organized as part of the _Language in Interaction_ consortium (NWO Gravitation Grant 024.001.006). We are also very thankful to the SustainaLab for lending us their space, to Jelle Zuidema and the ILLC office for organizational advice and support, and to Maithe van Noort for on-site assistance! 
 
 {{< rawhtml >}}
 <div class="flex-container">
