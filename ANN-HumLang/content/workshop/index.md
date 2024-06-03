@@ -9,7 +9,7 @@ For the first two days of the programme, we hope to stimulate discussion on the 
 
 #### Registration
 _**Registration is now closed**_, and we have reached our maximum capacity for in-person participation. We have opened a {{< rawhtml >}}<a href="https://forms.gle/6yn1ZRv7jf6pAVyE6"><button><b>wait list registration form</b></button></a>{{< /rawhtml >}} to sign up for the wait list. Please note that spaces may only become available on very short notice before the workshop.  
-_**Streamed/recorded talks**_ We have received some requests about possibilities for streaming and/or recording workshop talks. We are looking into this. Please leave your e-mail address in our {{< rawhtml >}}<a href="https://forms.gle/ntAomXz2mYUMQXpY8"><button><b>streamed/recorded talks interest form</b></button></a>{{< /rawhtml >}}, if you would like to receive further information in case we manage to organize some form of virtual attendance and/or recording.
+_**Streaming**_ Items marked with {{< rawhtml >}}<i class="fa-solid fa-video fa-sm"></i>{{< /rawhtml >}} on our {{< rawhtml >}}<a href="#programme">programme</a>{{< /rawhtml >}} will be streamed via Zoom. Please leave your e-mail address in this {{< rawhtml >}}<a href="https://forms.gle/ntAomXz2mYUMQXpY8"><button><b>streaming link form</b></button></a>{{< /rawhtml >}} if you would like to receive the link!
 
 #### Organizers
 Tamar Johnson (t.johnson@uva.nl)  
@@ -47,6 +47,7 @@ Neural network language models are pure prediction engines, they have no communi
 We have some pending timeslot shifts for our Tuesday and Wednesday schedule; please keep checking this webpage for the most up-to-date schedule!
 
 {{< rawhtml >}}
+<script src="https://kit.fontawesome.com/2502d9ad4b.js" crossorigin="anonymous"></script>
 <div class="wrapper">
 <table border="0">
   <tr  class="header">
@@ -65,7 +66,7 @@ We have some pending timeslot shifts for our Tuesday and Wednesday schedule; ple
     </td>
   </tr>
   <tr>
-    <td>14.15 - 15.15</td>
+    <td>14.15 - 15.15 <br><i class="fa-solid fa-video fa-sm"></i></td>
     <td>
     <b>Keynote lecture</b> by <a href="https://www.cs.rug.nl/~bisazza/">Arianna Bisazza</a> (University of Groningen):
     <br>
@@ -73,7 +74,7 @@ We have some pending timeslot shifts for our Tuesday and Wednesday schedule; ple
     </td>
   </tr>
   <tr>
-    <td>15.15 - 15.45</td>
+    <td>15.15 - 15.45 <br><i class="fa-solid fa-video fa-sm"></i></td>
     <td>
     <b>Talk</b> by <a href="https://sites.google.com/view/tessa-verhoef/home">Tessa Verhoef</a> (Leiden University):
     <br>
@@ -81,11 +82,11 @@ We have some pending timeslot shifts for our Tuesday and Wednesday schedule; ple
     </td>
   </tr>
   <tr>
-    <td>15.45 - 16.15</td>
+    <td>15.45 - 16.15 <br><i class="fa-solid fa-video fa-sm"></i></td>
     <td>
     <b>Talk</b> by <a href="https://lgalke.github.io/">Lukas Galke</a> (Max Planck Institute for Psycholinguistics):
     <br>
-    <i>Emergent communication and learning pressures in language models</i>
+    <i>Emergent communication and learning pressures in language models</i> 
     </td>
   </tr>
   <tr>
@@ -110,7 +111,7 @@ We have some pending timeslot shifts for our Tuesday and Wednesday schedule; ple
     <th colspan="2"><span>▾</span> Tuesday June 11th: <br>Second day of keynotes, talks and discussions</th>
   </tr>
   <tr>
-    <td>09.30 - 10.30</td>
+    <td>09.30 - 10.30 <br><i class="fa-solid fa-video fa-sm"></i></td>
     <td>
     <b>Keynote lecture</b> by <a href="https://evaportelance.github.io/">Eva Portelance</a> (Mila; HEC Montréal):<br>
     <i>What neural networks can teach us about how we learn language</i>
@@ -120,7 +121,7 @@ We have some pending timeslot shifts for our Tuesday and Wednesday schedule; ple
   <td colspan="2">Session on language learning</td>
   </tr>
   <tr class="session">
-    <td>10.30 - 11.00</td>
+    <td>10.30 - 11.00 <br><i class="fa-solid fa-video fa-sm"></i></td>
     <td>
     <b>Talk</b> by <a href="https://rgalhama.github.io/">Raquel G. Alhama</a> (University of Amsterdam):
     <br>
@@ -128,7 +129,7 @@ We have some pending timeslot shifts for our Tuesday and Wednesday schedule; ple
     </td>
   </tr>
   <tr class="session">
-    <td>11.00 - 11.30</td>
+    <td>11.00 - 11.30 <br><i class="fa-solid fa-video fa-sm"></i></td>
     <td>
     <b>Talk</b> by <a href="https://mahowak.github.io/">Kyle Mahowald</a> (University of Texas at Austin):
     <br>
@@ -150,7 +151,7 @@ We have some pending timeslot shifts for our Tuesday and Wednesday schedule; ple
     </td>
   </tr>
   <tr class="session">
-    <td>12.15 - 12.45</td>
+    <td>12.15 - 12.45 <br><i class="fa-solid fa-video fa-sm"></i></td>
     <td>
     <b>Discussion</b> on <i>using ANNs in modelling language learning</i>
     <br>
@@ -163,7 +164,7 @@ We have some pending timeslot shifts for our Tuesday and Wednesday schedule; ple
     <td>Lunch</td>
   </tr>
   <tr>
-    <td>14.00 - 15.00</td>
+    <td>14.00 - 15.00 <br><i class="fa-solid fa-video fa-sm"></i></td>
     <td>
     <b>Keynote lecture</b> by <a href="https://wilcoxeg.github.io/">Ethan Wilcox</a> (ETH Zürich):
     <br>
@@ -182,7 +183,7 @@ We have some pending timeslot shifts for our Tuesday and Wednesday schedule; ple
     </td>
   </tr>
   <tr class="session">
-    <td>15.30 - 16.00</td>
+    <td>15.30 - 16.00 <br><i class="fa-solid fa-video fa-sm"></i></td>
     <td>
     <b>Talk</b> by <a href="https://scholar.google.nl/citations?user=hC9ygKAAAAAJ&hl=en&oi=ao">Pierre Orhan</a> (École Normale Supérieure):
     <br>
@@ -196,13 +197,13 @@ We have some pending timeslot shifts for our Tuesday and Wednesday schedule; ple
     </td>
   </tr>
   <tr class="session">
-    <td>16.15 - 16.45</td>
+    <td>16.15 - 16.45 <br><i class="fa-solid fa-video fa-sm"></i></td>
     <td>
     <b>Position statements</b> by <a href="https://michaheilbron.github.io/">Micha Heilbron</a> (University of Amsterdam) and <a href="http://www.stefanfrank.info/">Stefan Frank</a> (Radboud University Nijmegen)
     </td>
   </tr>
   <tr class="session">
-    <td>16.45 - 17.15</td>
+    <td>16.45 - 17.15 <br><i class="fa-solid fa-video fa-sm"></i></td>
     <td>
     <b>Discussion</b> on <i>using ANNs in modelling language processing</i><br>
     Moderator: <a href="https://staff.fnwi.uva.nl/r.fernandezrovira/">Raquel Fernández</a> (University of Amsterdam)
